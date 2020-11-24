@@ -1,4 +1,5 @@
 .collection-preview {
+<<<<<<< HEAD
   display: flex;
   flex-direction: column;
   margin-bottom: 30px;
@@ -13,3 +14,20 @@
     justify-content: space-between;
   }
 }
+=======
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+  
+    .title {
+      font-size: 28px;
+      margin-bottom: 25px;
+    }
+  
+    .preview {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+  
+>>>>>>> ac139425e9451ecd268720857dc21aaf1df0b886

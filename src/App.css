@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     box-sizing: border-box;
 }
@@ -11,3 +12,9 @@ a {
   text-decoration: none;
   color: black;
 }
+=======
+body {
+    font-family: "Roboto", sans-serif;
+    padding: 20px 60px;
+}
+>>>>>>> ac139425e9451ecd268720857dc21aaf1df0b886
